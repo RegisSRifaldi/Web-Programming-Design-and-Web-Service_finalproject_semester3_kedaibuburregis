@@ -1,7 +1,7 @@
 <br />
 <p align="center">
     <a href="https://github.com/RegisSRifaldi/Web-Programming-Design-and-Web-Service_finalproject_semester3_kedaibuburregis"> 
-    <img src="https://github.com/RegisSRifaldi/Web-Programming-Design-and-Web-Service_finalproject_semester3_kedaibuburregis/blob/main/images/halaman-awal.PNG?raw=true" alt="Halaman Awal Web Drama Indonesia">
+    <img src="https://github.com/RegisSRifaldi/WebDramaIndonesia/blob/main/api/readapi/layout/css/img/Halaman-awal.PNG?raw=true" alt="Halaman Awal Website Kedai Bubur Regis">
     </a>
     <p align="center">A platform to discover Indonesian drama websites.</p>
 </p>
