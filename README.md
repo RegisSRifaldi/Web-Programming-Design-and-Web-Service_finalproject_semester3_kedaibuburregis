@@ -1,7 +1,7 @@
 <br />
 <p align="center">
     <a href="https://github.com/RegisSRifaldi/Web-Programming-Design-and-Web-Service_finalproject_semester3_kedaibuburregis"> 
-    <img src="https://github.com/RegisSRifaldi/WebDramaIndonesia/blob/main/api/readapi/layout/css/img/Halaman-awal.PNG?raw=true" alt="Halaman Awal Website Kedai Bubur Regis">
+    <img src="https://github.com/RegisSRifaldi/Web-Programming-Design-and-Web-Service_finalproject_semester3_kedaibuburregis/blob/main/images/halaman-awal.PNG?raw=true" alt="Kedai Bubur Regis Home Page">
     </a>
     <p align="center">A website for small businesses that operate porridge stalls.</p>
 </p>
